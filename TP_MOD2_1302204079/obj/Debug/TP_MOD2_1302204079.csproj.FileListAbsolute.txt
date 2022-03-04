@@ -1,0 +1,11 @@
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\bin\Debug\TP_MOD2_1302204079.exe.config
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\bin\Debug\TP_MOD2_1302204079.exe
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\bin\Debug\TP_MOD2_1302204079.pdb
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.csproj.AssemblyReference.cache
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.csproj.SuggestedBindingRedirects.cache
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.Test.resources
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.Properties.Resources.resources
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.csproj.GenerateResource.cache
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.csproj.CoreCompileInputs.cache
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.exe
+C:\Users\rima\OneDrive\Dokumen\TP_MOD2_1302204079\TP_MOD2_1302204079\obj\Debug\TP_MOD2_1302204079.pdb
